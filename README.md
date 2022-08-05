@@ -1,8 +1,12 @@
 # SFMLsorting
 
+## Description
+
 just a bubble sort and merge sort visulizer using SFML framework
 
-to run install SFML
+## Run
+
+install SFML
 
 then;
 
@@ -11,3 +15,4 @@ g++ mergesort.cpp -I"include path" -L"libs path" -std=c++17 -lsfml-graphics -lsf
 (run .cpp seperately)
 
 then run ./prog
+
